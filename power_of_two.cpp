@@ -15,6 +15,7 @@ int main() {
     } else {
         cout << n << " is NOT a power of 2 ❌";
     }
+    cout<<"rest"<<endl;
 
     return 0;
 }
