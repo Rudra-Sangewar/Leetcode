@@ -40,9 +40,9 @@ int main() {
     cin >> target;
 
     if (obj.searchMatrix(matrix, target))
-        cout << "Target found ✅" << endl;
+        cout << "Target found " << endl;
     else
-        cout << "Target not found ❌" << endl;
+        cout << "Target not found " << endl;
 
     return 0;
 }

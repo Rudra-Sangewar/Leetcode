@@ -62,6 +62,7 @@ int main() {
         "of", "text", "justification."
     };
 
+    
     int maxWidth = 16;
 
     vector<string> result = obj.fullJustify(words, maxWidth);

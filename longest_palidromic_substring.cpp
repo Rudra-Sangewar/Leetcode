@@ -38,12 +38,12 @@ public:
     }
 };
 
-// ✅ Required for VS Code / g++
+
 int main() {
     Solution sol;
     string s;
 
-    cin >> s;                 // input string
+    cin >> s;                 
     cout << sol.longestPalindrome(s);
 
     return 0;

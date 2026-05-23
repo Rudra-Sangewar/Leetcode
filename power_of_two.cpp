@@ -12,10 +12,13 @@ int main() {
 
     if (isPowerOfTwo(n)) {
         cout << n << " is a power of 2 ✅";
-    } else {
-        cout << n << " is NOT a power of 2 ❌";
+    } else { 
+       cout << n << " is NOT a power of 2 ❌";
     }
-    cout<<"rest"<<endl;
+    cout<<"bbrest"<<endl;
 
     return 0;
+    cout<<"bbrest"<<endl;
 }
+
+

@@ -26,5 +26,8 @@ int main() {
     else
         cout << "False: It is NOT a power of 3" << endl;
 
+        cout <<"Here i am getting a rest day"<<endl;
+        
+
     return 0;
 }

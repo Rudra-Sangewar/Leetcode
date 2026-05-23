@@ -28,5 +28,4 @@ int main() {
     cout << "First missing positive: "
          << obj.firstMissingPositive(nums);
 
-    return 0;
-}
+    
